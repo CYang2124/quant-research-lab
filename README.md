@@ -1,4 +1,4 @@
-# quant-research-lab
+
 # Quant Research Lab
 
 A Python-based quantitative finance research portfolio covering risk modeling, derivatives pricing, volatility forecasting, and factor backtesting.
